@@ -1,2 +1,1 @@
-﻿# hackuempractice
-pkr
+Mausikta Kheto
