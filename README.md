@@ -1,2 +1,1 @@
-﻿# hackuempractice
-stuti modak
+stutimodak
