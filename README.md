@@ -1,2 +1,1 @@
-﻿# hackuempractice
 Aastha Sinha
